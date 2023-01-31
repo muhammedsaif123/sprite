@@ -1,0 +1,253 @@
+body{
+    margin: 0; 
+    font-family: sans-serif,futuraBt; 
+}
+.main{
+    position: sticky;
+    top: 0;
+    width: 100%;
+    background-color:#009b4e ;
+}
+.head{
+    background-color: #009b4e;
+    width: 17%;
+    height: 100px;
+    float: left;
+}
+.head img{
+    width: 152px;
+    height: 55px;
+    margin-top: 22px;
+    margin-left: 49px;
+}
+.headleft{
+    background-color: #009b4e;
+    width: 58%;
+    height: 100px;
+    float: left;
+}
+.headleft a{
+    color: white;
+    font-style: italic;
+    font-size: 14px;
+    text-decoration: none;
+    font-weight: 900;
+    flex: 1;
+    text-align: left;
+    list-style: none;
+    display: inline-block;
+    margin: 36px;
+}
+.headleft a:hover{
+    color: black;
+}
+.headright{
+    background-color: #009b4e;
+    width: 25%;
+    height: 100px;
+    float: left;
+    
+}
+.headright img{
+    margin-top: 33px;
+    margin-left: 15px;
+    margin-right: 4px;
+}
+.headright img:hover{
+color: black;
+}
+.main1{
+    position: relative;
+    top: 100px;
+}
+.bodyright{
+    background-color:#00b13f ;
+    width: 50%;
+    height: 340px;
+    float: left;
+    
+}
+.bodyleft{
+    background-color:rgb(51 177 62);
+    width: 50%;
+    height: 340px;
+    float: left;
+}
+.bodyunder h1{
+    color: white;
+    font-family: "FuturaBT W05 ExtraBlack Italic";
+    font-style: italic;
+     font-weight:bolder ;
+     font-size: 2.5rem;
+     line-height: 47.9808px;
+     margin-top: 110px;
+     margin-left: 100px;
+}
+.bodyunder{
+    background-color:rgb(51 177 62);
+    width: 415px;
+    height: 100px;
+    padding-left: 50px;
+}
+.btn{
+    width: 150px;
+    height: 39px;
+    margin-left: 150px;
+    margin-top: 24px;
+    background: aliceblue;
+    color: #009b4e;
+    border: 0;
+}
+.btn:hover{
+    background-color: black;
+    color: white;
+}
+.bodyright img{
+    height: 340px;
+    width: 100%;
+}
+.body2{
+    background-color: white;
+    width: 27%;
+    height: 526px;
+    float: left;
+}
+.body2left{
+    background-color:white;
+    width: 46%;
+    height: 526px;
+    float: left;
+}
+.body2right{
+    background-color:white;
+    width: 27%;
+    height: 526px;
+    float: left;
+}
+.under{
+width: 100%;
+height: 32px;
+background-color: white;
+margin-top: 77px;
+}
+.under h2{
+    color: black;
+    text-align: left;
+    font-style: italic;
+    font-weight: bold;
+    font-family: "FuturaBT W05 ExtraBlack Italic";
+    font-size: 30px;
+}
+.under1 p{
+    color: black;
+    width: 100%;
+    height: 50px;
+    background-color: white;
+    font-family: "AvenirNextLTW01-Medium";
+    margin-top: 4px;
+    font-weight: 300;
+    font-size: 15px;
+}
+.ad{
+    width: 100%;
+    height: 315px;
+}
+.b3right{
+    background-color: rgb(242 242 241);
+    width:27%;
+    height: 439px;
+    float: left;
+}
+.b3center{
+    background-color: white;
+    width: 45%;
+    height: 439px;
+    float: left;
+}
+.b3left{
+    background-color: rgb(242 242 241);
+    width: 28%;
+    height: 439px;
+    float: left;
+}
+.b3center img{
+    height: 442px;
+    width: 100%;
+}
+.b4right{
+    background-color: #009b4e;
+    width: 28%;
+    height: 366px;
+    float: left;
+}
+.b4center{
+    background-color: #009b4e;
+    width: 36%;
+    height: 366px;
+    float: left;
+}
+.b4left{
+    background-color: #009b4e;
+    width: 36%;
+    height: 366px;
+    float: left;
+}
+.b4right img{
+    width: 100px;
+    height: 39px; 
+    margin-top: 107px;
+    margin-left: 179px;
+    background-color: #009b4e;
+    justify-content: center;
+}
+.b4center h4{
+    font-size: medium;
+    font-weight: 900;
+    font-style: italic;
+    margin-top: 90px;
+    color: white;
+    text-align: left;
+}
+.b4center img{
+    margin-left: 15px;
+    margin-top: 18px;
+   
+}
+.b4left h3{
+color: white;
+font-style: italic;
+
+}
+.pr{
+    position: relative;
+    top: 75px;
+}
+.b4left h3 li{
+    list-style:none;
+    display: block;
+    color: white;
+    font-style: italic; 
+    margin-top: 10px;
+    position: relative;
+    top: 91px;
+}
+.b4left h3 li:hover{
+color: black;
+}
+.bottom{
+    background-color:  #009b4e;
+    text-align: center;  
+}
+.bottom a{
+    color: white;
+    text-decoration: none;
+    font-family: sans-serif,futuraBt;
+    text-decoration:none ;
+    font-size: 18px;
+    padding: 20px 4px;
+    font-style: italic;
+}
+
+
+
+
